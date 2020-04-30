@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'MDB React Starter',
+    title: 'React-Gatsby Creative Agency',
     description: 'MDB React starter for material design landing page',
     siteUrl: 'https://gatsby-starter.mdbootstrap.com',
     author: 'anna-morawska',
