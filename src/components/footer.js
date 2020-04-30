@@ -49,20 +49,18 @@ const Footer = () => {
                 <MDBRow className="pb-3">
                     <MDBCol md="12">
                         <div className="mb-5 flex-center">
-                            <MDBIcon fab icon="facebook-f" size="lg" className="mx-2 white-text mr-md-4"></MDBIcon>
-                            <MDBIcon fab icon="twitter" size="lg" className="mx-2 white-text mr-md-4"></MDBIcon>
-                            <MDBIcon fab icon="google-plus-g" size="lg" className="mx-2 white-text mr-md-4"></MDBIcon>
-                            <MDBIcon fab icon="linkedin-in" size="lg" className="mx-2 white-text mr-md-4"></MDBIcon>
-                            <MDBIcon fab icon="instagram" size="lg" className="mx-2 white-text mr-md-4"></MDBIcon>
-                            <MDBIcon fab icon="pinterest" size="lg" className="mx-2 white-text mr-md-4"></MDBIcon>
+                           <a href = "https://www.facebook.com/Rashy.mr62/"><MDBIcon fab icon="facebook-f" size="lg" className="mx-2 white-text mr-md-4"></MDBIcon></a>
+                           <a href = "https://www.github.com/MdRashid62"><MDBIcon fab icon="github" size="lg" className="mx-2 white-text mr-md-4"></MDBIcon></a>
+                           <a href = "https://www.linkedin.com/in/rashid-muhammad-b36909153/"><MDBIcon fab icon="linkedin-in" size="lg" className="mx-2 white-text mr-md-4"></MDBIcon></a>
+                           <a href = "https://www.instagram.com/its_rashy/"><MDBIcon fab icon="instagram" size="lg" className="mx-2 white-text mr-md-4"></MDBIcon></a>
                         </div>
                     </MDBCol>
                 </MDBRow>
             </MDBContainer>
             <div className="footer-copyright text-center py-3">
                 <MDBContainer fluid>
-                    &copy; {new Date().getFullYear()} Copyright:
-                <a href="https://www.MDBootstrap.com" alt=""> MDBootstrap.com </a>
+                    &copy; {new Date().getFullYear()} Copyright
+                <a href="https://www.github.com/MdRashid62" alt="visit"> Muhammad Rashid </a>
                 </MDBContainer>
             </div>
         </MDBFooter>

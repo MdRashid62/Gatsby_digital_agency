@@ -8,9 +8,9 @@ const CardExample = () => {
             <MDBCard>
             <MDBCardImage className="img-fluid" src={image} alt=""  waves />
                 <MDBCardBody>
-                    <MDBCardTitle>Card title</MDBCardTitle>
+                    <MDBCardTitle>Project Name</MDBCardTitle>
                     <MDBCardText>Some quick example text to build on the card title and make up the bulk of the card's content.</MDBCardText>
-                    <MDBBtn href="#">Click</MDBBtn>
+                    <MDBBtn href="#">Visit</MDBBtn>
                 </MDBCardBody>
             </MDBCard>
         </MDBCol>

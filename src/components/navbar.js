@@ -45,13 +45,13 @@ class NavbarPage extends Component {
             <MDBNavbarNav right>
               <div className="d-flex align-items-center">
                 <CustomNavLink to="#!">
-                  <MDBIcon fab icon="facebook" className="ml-1" />
+                 <a href = "https://facebook.com/Rashy.mr62"> <MDBIcon fab icon="facebook" className="ml-1" /></a>
                 </CustomNavLink>
                 <CustomNavLink to="#!">
-                  <MDBIcon fab icon="twitter" className="ml-1" />
+                <a href = "https://github.com/MdRashid62/"> <MDBIcon fab icon="github" className="ml-1" /></a>
                 </CustomNavLink>
                 <CustomNavLink to="#!">
-                  <MDBIcon fab icon="linkedin" className="ml-1" />
+                 <a href = "https://www.linkedin.com/in/rashid-muhammad-b36909153/"> <MDBIcon fab icon="linkedin" className="ml-1" /></a>
                 </CustomNavLink>
               </div>
             </MDBNavbarNav>

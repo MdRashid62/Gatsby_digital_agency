@@ -12,19 +12,19 @@ const CarouselPage = () => {
                 <MDBCarouselItem itemId="1">
                     <MDBView>
                         <img className="d-block w-100" src={image4} alt="First slide" />
-                        <MDBMask overlay="black-strong" />
+                        <MDBMask overlay="black-light" />
                     </MDBView>
                 </MDBCarouselItem>
                 <MDBCarouselItem itemId="2">
                     <MDBView>
                         <img className="d-block w-100" src={image2} alt="Second slide" />
-                        <MDBMask overlay="black-strong" />
+                        <MDBMask overlay="black-light" />
                     </MDBView>
                 </MDBCarouselItem>
                 <MDBCarouselItem itemId="3">
                     <MDBView>
                         <img className="d-block w-100" src={image3} alt="Mattonit's item" />
-                        <MDBMask overlay="black-strong" />
+                        <MDBMask overlay="black-light" />
                     </MDBView>
                 </MDBCarouselItem>
             </MDBCarouselInner>
