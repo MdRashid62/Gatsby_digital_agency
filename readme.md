@@ -6,17 +6,15 @@ A simple starter which lets you quickly start developing with Gastby and Materia
 
 Live [Preview](https://creative-agency-gatsby.netlify.app/)
 
-![thumb](https://mdbootstrap.com/img/React/gatsby-mdbreact-starter.png)
-
 ## Features
 
-- [React Bootstrap with Material Design](https://mdbootstrap.com/react/) css framework.
+- React Bootstrap with Material Design, css framework.
 - Free for personal and commercial use
 - Fully responsive
 
 ## Installation
 Install this starter (assuming Gatsby is installed) by running from your CLI:
-`gatsby new projectName https://github.com/anna-morawska/gatsby-starter-material-design-for-bootstrap`
+`gatsby new projectName Repository link`
 
 ## Usage
 
