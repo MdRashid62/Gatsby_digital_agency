@@ -1,8 +1,4 @@
-# # React Bootstrap with Material Design
-
-[![npm version](https://badge.fury.io/js/mdbreact.svg)](https://badge.fury.io/js/mdbreact)
-
-A simple starter which lets you quickly start developing with Gastby and Material Design For Bootstrap
+# # React Bootstrap web app with Material Design
 
 Live [Preview](https://creative-agency-gatsby.netlify.app/)
 
